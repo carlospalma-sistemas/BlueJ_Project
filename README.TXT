@@ -8,5 +8,5 @@ PROJECT TITLE:              BLUEJ_PROJECT
 PURPOSE OF PROJECT:         Probar BlueJ con GitHub en español
 VERSION or DATE:            25/julio/2021
 HOW TO START THIS PROJECT:  
-AUTHORS:                    Carlos Andrés Palma Suárez
+AUTHORS:                    Cielo Juliana Chacón Echeverry
 USER INSTRUCTIONS:
